@@ -1,4 +1,4 @@
-# Python-Snake-Game
+# Snake-Arcade-Game
 Recreated the classic arcade Snake Game in Python using the Pygame library.
 
 ## Description
