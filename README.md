@@ -9,7 +9,7 @@ edges of the screen, or you hit your own body, you will lose! Use the arrow keys
 * Python 
 * Pygame 
 
-### How to play
+### How to Play
 * Install python
 * Install pygame
 * Download Snake Game.py executable
